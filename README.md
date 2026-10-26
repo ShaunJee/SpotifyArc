@@ -2,25 +2,31 @@
 
 # 🌊 Spotify Arc
 
-*“Spotify playlists are flat lists, but human energy isn't.”*
+### *“Spotify playlists are flat lists, but human energy isn't.”*
 
-The dynamic energy curve & time-architected playlist engine for Spotify.  
+**The dynamic energy curve & time-architected playlist engine for Spotify.**  
 Built for **Hack to the Future 2026** 🏆
 
-[![Demo Website](https://img.shields.io/badge/Demo%20Website-shaunjee.github.io%2FSpotifyArc-1ed760?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shaunjee.github.io/SpotifyArc/)
-[![Demo Video](https://img.shields.io/badge/Demo%20Video-3--Min%20Walkthrough-red?style=for-the-badge&logo=youtube&logoColor=white)](demo_video.mp4)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
+<br />
 
-<br/><br/>
+<a href="https://shaunjee.github.io/SpotifyArc/"><img src="https://img.shields.io/badge/Demo_Website-shaunjee.github.io%2FSpotifyArc-6366f1?style=flat-square" alt="Demo Website" /></a>&nbsp;
+<a href="./demo_video.mp4"><img src="https://img.shields.io/badge/Demo_Video-3--Min_Walkthrough-f43f5e?style=flat-square" alt="Demo Video" /></a>&nbsp;
+<a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-10b981?style=flat-square" alt="License: MIT" /></a>
 
+<br /><br />
+
+<!-- Hero Poster -->
 <a href="https://shaunjee.github.io/SpotifyArc/">
-  <img src="screenshots/01-hero-split-before-after.png" alt="Spotify Arc Hero Split Comparison" width="100%">
+  <img src="screenshots/01-hero-split-before-after.png" alt="Spotify Arc - Playlists shaped like your time" width="100%" style="border-radius: 14px; box-shadow: 0 16px 40px rgba(0,0,0,0.25);" />
 </a>
 
-<br/><br/>
+<p align="center">
+  🌐 <strong>Demo Website:</strong> <a href="https://shaunjee.github.io/SpotifyArc/"><strong>https://shaunjee.github.io/SpotifyArc/</strong></a>
+  <br />
+  <em>👉 Click the link or poster above to launch the live demo website with zero setup!</em>
+</p>
 
-🌐 **Demo Website:** [https://shaunjee.github.io/SpotifyArc/](https://shaunjee.github.io/SpotifyArc/)  
-👉 *Click the link or poster above to launch the live demo website with zero setup!*
+<br />
 
 </div>
 
@@ -30,9 +36,17 @@ Built for **Hack to the Future 2026** 🏆
 
 Watch the complete **3-minute walkthrough** demonstrating Spotify Arc in action—from instant playlist weakness diagnostics and 1-click fixed-pool Reshape mode to live Fritsch–Carlson cubic spline editing, procedural Web Audio synthesis, and beat-matched DJ crossfades:
 
-▶ **[Click here to watch or download demo_video.mp4 (Full 1080p 60fps)](demo_video.mp4)**
+<div align="center">
 
-> *The demo video is committed directly to the repository root as [`demo_video.mp4`](demo_video.mp4).*
+<video src="demo_video.mp4" controls="controls" width="100%" poster="screenshots/01-hero-split-before-after.png">
+  Your browser does not support the video tag. You can view or download the video directly via the link below.
+</video>
+
+<p align="center">
+  ▶️ <strong><a href="demo_video.mp4">Click here to download or watch demo_video.mp4 (Full 1080p 60fps)</a></strong>
+</p>
+
+</div>
 
 ---
 
