@@ -1,0 +1,22 @@
+# Recording & Scratch Directories
+helpers/
+helper/
+scratch/
+start/
+voice_recs/
+screen_recs/
+
+# Media and Audio Artifacts
+*.mp3
+*.ogg
+*.wav
+*.mp4
+*.webm
+
+# OS & Editor Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
