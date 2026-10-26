@@ -11,6 +11,7 @@ screen_recs/
 *.ogg
 *.wav
 *.mp4
+!demo_video.mp4
 *.webm
 
 # OS & Editor Files
