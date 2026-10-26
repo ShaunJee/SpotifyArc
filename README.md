@@ -1,6 +1,10 @@
 <div align="center">
 
-# 🌊 Spotify Arc
+<a href="https://shaunjee.github.io/SpotifyArc/">
+  <img src="logo/logo.svg" alt="Spotify Arc Logo" width="80" height="80" />
+</a>
+
+# Spotify Arc
 
 ### *“Spotify playlists are flat lists, but human energy isn't.”*
 
